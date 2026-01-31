@@ -1,4 +1,4 @@
-# ESP32 T-Display Smartwatch OS
+# TTGO-T-Display-Smartwatch OS
 
 A fully-featured smartwatch firmware for the **LILYGO T-Display** ESP32 board. Features a beautiful clock display, image viewer, system monitor, stopwatch, and WiFi analyzer - all powered by a colorful 240x135 LCD screen.
 
